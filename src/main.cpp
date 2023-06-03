@@ -5,8 +5,8 @@
 #include <PubSubClient.h> // MQTT Client
 #include <optional>
 
-const char*  ssid         = "DNA-BEB67ACC9960";
-const char*  password     = "59EC2EEA2846";
+const char*  ssid         = "iot-dev";
+const char*  password     = "systemsecurity";
 
 const char*  mqtt_server  = "syssec.eemcs.utwente.nl";
 const int    mqtt_port    = 1883;
