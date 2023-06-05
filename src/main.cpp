@@ -205,5 +205,5 @@ void loop() {
     // First receive mqtt data
     pubsub_client.loop();
 
-    delay(10); 
+    delay(1000); 
 }
